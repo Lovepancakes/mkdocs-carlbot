@@ -19,9 +19,9 @@ All these messages will be sent to the channel saved with `!set welcome`. **Use 
 
 `{mention}` - Pings the user
 
-`{user}` - The name of the user
+`{user}` - dumbie
 
-`{server}` - The name of the server
+`{server}` - space ship
 
 `{user(id)}` - The ID of the user
 
